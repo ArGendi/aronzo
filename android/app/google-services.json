@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "769841747057",
+    "project_id": "aronzo-261ac",
+    "storage_bucket": "aronzo-261ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769841747057:android:b9421127a2f5d82fb777d0",
+        "android_client_info": {
+          "package_name": "com.argendi.aronzocash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD-hw3v5TAOfqJDNhzL7WG3plsxGSo1zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769841747057:android:b3eeea1a59bf173eb777d0",
+        "android_client_info": {
+          "package_name": "com.aronzo.aronzocash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD-hw3v5TAOfqJDNhzL7WG3plsxGSo1zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
